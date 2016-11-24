@@ -1,0 +1,26 @@
+{
+  "name": "fp-loop",
+  "version": "0.2.3",
+  "description": "A functional module to simulate loops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axdemelas/fp-loop.git"
+  },
+  "keywords": [
+    "functional module",
+    "recursive",
+    "loop",
+    "functional programming",
+    "currying"
+  ],
+  "author": "Alexandre Demelas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axdemelas/fp-loop/issues"
+  },
+  "homepage": "https://github.com/axdemelas/fp-loop#readme"
+}
